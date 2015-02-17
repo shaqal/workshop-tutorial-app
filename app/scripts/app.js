@@ -8,7 +8,7 @@
 
   //STEP 1: Beginning of STEP 1 code. Delete from here to "STEP 1: DELETE TO HERE " below//
   /* Generate Agave API docs */
-  window.addEventListener('Agave::ready', function() {
+/*  window.addEventListener('Agave::ready', function() {
     var Agave, help, helpItem, helpDetail, methods, methodDetail;
 
     Agave = window.Agave;
@@ -58,7 +58,6 @@
   });
   //STEP 1: DELETE TO HERE //  
   //STEP 1: Uncomment the following Code://
-  /**** To uncomment for STEP 1 delete this entire line ********
   // jshint unused: false
   // Wait for Agave to Bootstrap before executing our code.
   window.addEventListener('Agave::ready', function() {
@@ -78,12 +77,10 @@
 	  failFunction
     );
   });
-  *** To uncomment for STEP 1 delete this entire line ********/
   //STEP 1: FINISHED uncommenting here
   
   //STEP 2: DELETE ALL OF STEP 1 CODE
   //STEP 2: Uncomment the following code down to "STEP 2: FINISHED uncommenting here"
-  /*** To uncomment for STEP 2 delete this entire line ********
   // jshint unused: false
   // Wait for Agave to Bootstrap before executing our code.
   window.addEventListener('Agave::ready', function() {
@@ -110,12 +107,10 @@
 	  failFunction
     );
   });  
-  *** To uncomment for STEP 2 delete this entire line ********/
-  //STEP 2: FINISHED uncommenting here
+ */ //STEP 2: FINISHED uncommenting here
   
   //STEP 3: DELETE ALL OF STEP 1 and 2 CODE
   //STEP 3: Uncomment the following code down to "STEP 3: FINISHED uncommenting here"
-  /*** To uncomment for STEP 3 delete this entire line ********
   // jshint unused: false
   // jshint camelcase: false
   // Wait for Agave to Bootstrap before executing our code.
@@ -159,7 +154,6 @@
 	  failFunction
     );
   });
-  *** To uncomment for STEP 3 delete this entire line ********/
   //STEP 3: FINISHED uncommenting here
   
 
